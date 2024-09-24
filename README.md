@@ -1,4 +1,4 @@
-<h6 align="center">discord: foolishburden</h6>
+<h1 align="center">discord: foolishburden</h6>
 
 ###
 
